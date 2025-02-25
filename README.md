@@ -1,6 +1,5 @@
 # Image-Detection-CatOrDog
 Is the animal in the image a cat or a dog?
-Made for education
 78% accuracy
 
 0 = Cat
